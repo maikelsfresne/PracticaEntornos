@@ -2,7 +2,7 @@ package testeosED;
 
 public class Hola {
 	public static void main(String[] args) {
-		System.out.println("Hola 4.0, esta es la documentacion de las pruebas:");
+		System.out.println("Hola 1.0, esta es la documentacion de las pruebas:");
 		
 		String documentacion=""
 				+ "En la pestaña GitRepositories le damos a clonar repositorio," + "\n"
