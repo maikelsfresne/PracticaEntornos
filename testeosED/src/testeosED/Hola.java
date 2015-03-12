@@ -12,5 +12,6 @@ public class Hola {
 				+ "mismo fichero, así que en caso de errores siempre se pueden recuperar esas versiones";
 		
 		System.out.println(conclusiones);
+		System.out.println(":D");
 	}
 }
